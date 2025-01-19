@@ -1,0 +1,4 @@
+- id: godot-version
+  name: godot-version
+  entry: versioner/src/versioner/godot-version
+  language: python
